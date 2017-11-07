@@ -21,8 +21,8 @@ The goals / steps of this project are the following:
 [image2]: ./test_images/test1.jpg "Road Transformed"
 [image3]: ./output_images/threshold_test1.jpg "Binary Example"
 [image4]: ./output_images/pts_test2.jpg "Warp Example"
-[image5]: ./output_images/lane_lines_image.jpg "Fit Visual"
-[image6]: ./output_images/final_image.jpg "Output"
+[image5]: ./output_images/lane_lines_image.JPG "Fit Visual"
+[image6]: ./output_images/final_image.JPG "Output"
 [video1]: ./project_video_solution.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
